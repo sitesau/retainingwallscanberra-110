@@ -1,0 +1,22 @@
+{
+  "wheel_id": 692,
+  "structure": "umbrella",
+  "slug": "retainingwallscanberra-110",
+  "project": "retaining-wall-builders-canberra-myths-d712b3241509e7c1f7f8e2fe",
+  "parent_t1_ref": "retainingwallscanberra-155",
+  "node_role": "feeder",
+  "money_target": "retainingwallscanberra.au",
+  "primary_kw": "retaining wall builders canberra myths",
+  "intended_url": "https://aumedia.neocities.org/retaining-wall-builders-canberra-myths-d712b3241509e7c1f7f8e2fe/",
+  "tier": "T2",
+  "writeback_nonce": "8b3ec28ab762e6d2",
+  "links": [
+    {
+      "target_url": "http://retaining-wall-builders-canberra-glossary-a9e25f0a26985cc5ec2e2.s3-website-ap-southeast-2.amazonaws.com/index.html",
+      "anchor": "http://retaining-wall-builders-canberra-glossary-a9e25f0a26985cc5ec2e2.s3-website-ap-southeast-2.amazonaws.com/index.html",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "url"
+    }
+  ]
+}
